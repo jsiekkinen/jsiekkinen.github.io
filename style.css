@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    max-width: 1020px;
+}
+nav {
+    text-align: center;
+}
+nav ul{
+    display:flex;
+}
+nav ul li{
+    flex:1;
+    list-style: none;
+}
+#wrapper {
+    max-width: 1020px;
+    margin: auto;
+    image width: 100%;
+    }
+
+header {
+        text-align: center;
+        background-color: gray;
+    }
+h1{
+    text-align: center;
+    background-color: gray;
+}
+h2{
+    text-align: center;
+    background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
