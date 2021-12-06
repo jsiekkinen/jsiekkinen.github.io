@@ -11,10 +11,6 @@ body {
     background-size: cover;
 }
 
-.container {
-    background: rgba(170, 187, 97, 0.5);
-}
-
 nav {
     text-align: center;
 }
